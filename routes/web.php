@@ -11,4 +11,5 @@ Route::controller(IndexController::class)->group(function(){
     Route::get('/', 'index')->name('index');
     Route::get('about', 'about')->name('about');
     Route::get('contact', 'contact')->name('contact');
+    Route::get('mandatory-discloser', 'mandatoryDiscloser')->name('mandatory.discloser');
 });

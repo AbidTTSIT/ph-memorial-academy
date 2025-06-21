@@ -10,6 +10,8 @@
           <li><a href="{{ route('index') }}" class="active">Home</a></li>
           <li class="dropdown"><a href="{{ route('about') }}"><span>About us</span> </a>
           </li>
+           <li class="dropdown"><a href="{{ route('mandatory.discloser') }}"><span>Mandatory Discloser</span> </a>
+          </li>
           {{-- <li class="dropdown"><a href="#"><span>More Pages</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">News Details</a></li>
