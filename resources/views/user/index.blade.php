@@ -93,7 +93,7 @@
               <span class="month">JUL</span>
             </div>
             <div class="event-info">
-              <h3>Spring Semester Open House</h3>
+              <h3>Spring Semester Open College</h3>
               <p>Visit our campus to explore facilities, interact with faculty, and get details on admission & scholarships.</p>
             </div>
             <div class="event-action">
